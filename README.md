@@ -20,8 +20,8 @@ A Telegram bot for the SrtLink URL shortener service. This bot allows users to c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/srtlink-telegram-bot.git
-cd srtlink-telegram-bot
+git clone https://github.com/UdayScripts/srt.git
+cd srt
 ```
 
 2. Install dependencies:
@@ -85,4 +85,4 @@ MIT
 
 ## Author
 
-Your Name
+UdayScripts
